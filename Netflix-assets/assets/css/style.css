@@ -1,0 +1,11 @@
+body {
+    background-color: #1c1c1c;
+}
+
+#imgHover {
+    transition: all 0.3s;
+}
+
+#imgHover:hover {
+    transform: scale(1.15);
+}
